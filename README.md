@@ -1,3 +1,7 @@
+Running the app:
+In the command terminal, use git clone https://github.com/DiondraEvans/Fruits-Export-Import-Exercise.git. Once the repo has finished installing into your desired directory, Open up your terminal and type "npm i" to install all of the dependencies from the packgage.json that were used in this project. Finally, run npm start to run your dev environment.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
